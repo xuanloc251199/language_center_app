@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TRUNG TÂM HOA NGỮ</string>
+    <string name="note_login">Mời bạn nhập thông tin tài khoản đã đăng ký hoặc do trung tâm cấp</string>
+    <string name="email">Email</string>
+    <string name="pass">Mật khẩu</string>
+    <string name="enter_pass">Nhập lại mật khẩu:</string>
+    <string name="login">Đăng nhập</string>
+    <string name="regis_now">Đăng ký ngay!</string>
+    <string name="login_now">Đăng nhập ngay!</string>
+    <string name="have_acc">Đã có tài khoản?</string>
+    <string name="forgot_pass">Quên mật khẩu?</string>
+    <string name="or">Hoặc</string>
+    <string name="login_w_gg">Đăng nhập với Google</string>
+    <string name="login_w_apple">Đăng nhập với Apple</string>
+    <string name="regis_w_gg">Đăng ký với Google</string>
+    <string name="regis_w_apple">Đăng ký với Apple</string>
+    <string name="regis">Đăng ký</string>
+    <string name="enter_email">Mời bạn nhập vào email để xác nhận lấy lại mật khẩu</string>
+    <string name="approve">Xác nhận</string>
+    <string name="hello">Xin chào</string>
+    <string name="name">Nguyễn Văn Giàu</string>
+    <string name="infor_course">Chưa có thông tin khóa học</string>
+    <string name="calender">THỜI KHÓA BIỂU</string>
+    <string name="lecturers">GIẢNG VIÊN</string>
+    <string name="curriculum">giáo trình</string>
+    <string name="course">khóa học</string>
+    <string name="course_having">CÁC KHÓA HỌC HIỆN CÓ TẠI TRUNG TÂM</string>
+    <string name="course_detail">Dành cho học viên muốn tập trung kỹ năng giao tiếp (80%) và nhận mặt chữ Hán (20%) giúp học viên thành thạo các kỹ năng Nghe – nói – đọc tiếng Hoa trong giao tiếp hàng ngày, giao tiếp công sở và giao tiếp với đối tác.</string>
+    <string name="award">THÀNH TỰU NỖI BẬT</string>
+</resources>
